@@ -1,0 +1,135 @@
+*   {
+    margin: 0;
+    padding: 0;
+    background: rgb(114, 114, 114);
+    box-sizing: border-box;
+}
+
+.banner{
+    
+    width: 1920px;
+    height: 400px;
+    max-width: 100%;
+}
+.footer-flex{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.rrss {
+    margin: 20px;   
+    height: 40px;
+    width: 40px;
+    max-width: 100%;
+    max-height: 100%;
+    padding: 0em; 
+}
+
+.nav-bar {
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+}
+
+.tituloProducto{
+    color: aliceblue;
+    align-items: center;
+    text-decoration: underline;
+    margin: 5px;
+}
+
+.tarjetaCarrito{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    color: aliceblue;
+    align-items: center;
+    margin: 2px;
+}
+
+.tarjetaProducto {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 10px;
+}
+
+
+#tablaDeProductos {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.imagen {
+    width: 200px;
+    height: 150px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.imagenCarrito {
+    width: 60px;
+    height: 60px;
+}
+.swal2-styled.swal2-confirm {
+    border: 0;
+    border-radius: 0.25em;
+    background: white;
+    background-color: #1500ff;
+    color: #fff;
+    font-size: 1em;
+}
+.swal2-actions {
+    display: flex;
+    z-index: 1;
+    box-sizing: border-box;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    background: white;
+    margin: 1.25em auto 0;
+    padding: 0;
+}
+.swal2-icon.swal2-success .swal2-success-ring {
+    position: absolute;
+    z-index: 2;
+    top: -0.25em;
+    left: -0.25em;
+    box-sizing: content-box;
+    width: 100%;
+    height: 100%;
+    border: 0.25em solid rgba(165,220,134,.3);
+    border-radius: 50%;
+    background: white;
+}
+.swal2-title {
+    position: relative;
+    max-width: 100%;
+    margin: 0;
+    padding: 0.8em 1em 0;
+    color: inherit;
+    font-size: 1.875em;
+    font-weight: 600;
+    text-align: center;
+    text-transform: none;
+    word-wrap: break-word;
+    background: white;
+}
+.swal2-html-container {
+    z-index: 1;
+    justify-content: center;
+    margin: 1em 1.6em 0.3em;
+    padding: 0;
+    overflow: auto;
+    color: inherit;
+    font-size: 1.125em;
+    font-weight: normal;
+    line-height: normal;
+    text-align: center;
+    word-wrap: break-word;
+    word-break: break-word;
+    background: white;
+}

@@ -1,0 +1,78 @@
+[
+        {
+            "id": 10,
+            "nombre": "Discos de freno",
+            "clase": "frenos",
+            "cantidad": 5 ,
+            "precio": 300,
+            "img": "./imagenes/discosDeFreno.jpeg"
+        },
+        {
+            "id": 11,
+            "nombre": "Pastilla de freno",
+            "clase": "frenos",
+            "cantidad": 5 ,
+            "precio": 200,
+            "img": "./imagenes/pastillasDeFrenos.jpg"
+        },
+        {
+            "id": 12,
+            "nombre": "Liquido de freno",
+            "clase": "frenos",
+            "cantidad": 5 ,
+            "precio": 100,
+            "img": "./imagenes/liquidoDeFreno.jpg"
+        
+        },
+        {
+            "id": 20,
+            "nombre": "Amortiguados",
+            "clase": "suspencion",
+            "cantidad": 5 ,
+            "precio": 425,
+            "img": "./imagenes/amortiguadores.jpg"
+        },
+        {
+            "id": 21,
+            "nombre": "Espirales",
+            "clase": "suspencion",
+            "cantidad": 5 ,
+            "precio": 250,
+            "img": "./imagenes/espirales.jpg"
+        },
+        {
+            "id": 22,
+            "nombre": "Bieleta",
+            "clase": "suspencion",
+            "cantidad": 5 ,
+            "precio": 175,
+            "img": "./imagenes/bieleta.jpg"
+        },
+        {
+            "id": 30,
+            "nombre": "Aceite 10w-40",
+            "clase": "motor",
+            "cantidad": 5 ,
+            "precio": 315,
+            "img": "./imagenes/aceiteMotor.jpg"
+        },
+        {
+            "id": 31,
+            "nombre": "Filtro de aceite",
+            "clase": "motor",
+            "cantidad": 5 ,
+            "precio": 130,
+            "img": "./imagenes/filtroDeAceite.jpg"
+        },
+        {
+            "id": 32,
+            "nombre": "Filtro de aire",
+            "clase": "motor",
+            "cantidad": 5 ,
+            "precio": 50,
+            "img": "./imagenes/filtroDeAire.jpg"
+        }
+    ]
+
+
+
